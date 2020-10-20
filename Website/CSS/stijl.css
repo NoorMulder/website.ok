@@ -1,0 +1,41 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+ li {
+           font-family: "Roboto Condensed", sans-serif;
+          font-size:40px;       
+            display: inline; 
+      background-color: rgb(96, 202, 92);
+      color: white;
+      padding: 10px;
+      margin: 10px;
+ }
+#container {
+      background-color: rgb(6, 59, 6);
+    
+
+   }
+.title {
+    font-size: 50px;
+}
+
+.body {
+   background-blend-mode:purple 
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+li:hover {
+    background-color: red;
+}
+
+#menu {
+    height: 1000px;
+    width: 1000px;
+    color: red;
+    background-color: aquamarine;
+}
