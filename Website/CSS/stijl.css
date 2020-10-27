@@ -10,14 +10,23 @@ html,body {
       color: white;
       padding: 10px;
       margin: 10px;
+      margin-left: 180px;
  }
 #container {
       background-color: rgb(6, 59, 6);
+      height: 50px;
+      margin-top: 20px;
     
 
    }
 .title {
-    font-size: 50px;
+    font-size: 100px;
+    background-color:rgb(6, 59, 6);
+    color:white; 
+    padding: 10px;
+    height: 150px;
+    width: 1880px;
+    margin-bottom: -20px;
 }
 
 .body {
@@ -35,7 +44,26 @@ li:hover {
 
 #menu {
     height: 1000px;
-    width: 1000px;
+    width: 1900px;
     color: red;
-    background-color: aquamarine;
+    background-color: rgb(6, 59, 6);
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.logo1{
+    margin-right: 680px;
+     
+}
+
+.logo2{
+    margin-left: 680px;
+}
+
+.img1{
+    height: 500px;
+    width: 500px;
 }
